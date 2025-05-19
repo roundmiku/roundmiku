@@ -1,6 +1,4 @@
-Currently learning C and Python. Studying Computer Systems Engineering. 
 
-They/them
 
 
 
